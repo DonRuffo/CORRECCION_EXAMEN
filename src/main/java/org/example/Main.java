@@ -12,6 +12,7 @@ public class Main {
         PASAJEROS pj3 = new PASAJEROS();
         PASAJEROS pj4 = new PASAJEROS();
         PASAJEROS pj5 = new PASAJEROS();
+        PASAJEROS pj6 = new PASAJEROS();
 
         pj.setCI(1721119942);
         pj.setEdad(18);
@@ -33,11 +34,16 @@ public class Main {
         pj5.setEdad(50);
         pj5.setNombre("Andrea Rodriguez");
 
+        pj6.setCI(1603030073);
+        pj6.setEdad(30);
+        pj6.setNombre("Andres Rodriguez");
+
         pj.imprimir_datos();
         pj2.imprimir_datos();
         pj3.imprimir_datos();
         pj4.imprimir_datos();
         pj5.imprimir_datos();
+        pj6.imprimir_datos();
 
 
 
