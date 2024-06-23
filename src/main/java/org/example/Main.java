@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.VIAJES.PASAJEROS;
+import org.example.PASAJEROS;
 
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

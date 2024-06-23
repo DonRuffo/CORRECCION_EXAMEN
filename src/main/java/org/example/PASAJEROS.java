@@ -1,4 +1,4 @@
-package org.example.VIAJES;
+package org.example;
 
 public class PASAJEROS {
     long CI;
